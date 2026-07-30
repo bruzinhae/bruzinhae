@@ -14,11 +14,10 @@
 
 - 🎓 Cursando **Engenharia de Software** na **PUC-Campinas** (conclusão prevista em Dez/2028)
 - 🖥️ Técnica em **Informática para Internet** pela ETEC Vasco A. Venchiarutti (2020–2022)
-- 💼 Experiência como **Desenvolvedora Web Freelancer** (HTML5, CSS3, JS ES6+), com foco em performance e SEO
+- 💼 Experiência como **Desenvolvedora Web Freelancer** (HTML5, CSS3)
 - 📊 Projeto pessoal em **Análise de Dados com Python** (Pandas, Matplotlib, Seaborn)
 - 🧩 Gosto de resolver problemas com lógica estruturada — do jogo da forca em C++ ao back-end em PHP do meu TCC
 - 🌱 Foco atual: aprofundar **desenvolvimento Full Stack** e metodologias ágeis
-- 🗣️ Idiomas: **Espanhol avançado** e **Inglês intermediário/avançado**
 
 ---
 
@@ -48,14 +47,7 @@
 | [📊 Imersão de Dados – Alura](https://github.com/bruzinhae/imers-o_dados_python_alura) | Tratamento e análise de dados com Python durante imersão da Alura | `Python` `Pandas` |
 | [⚽ Site Champions League](https://github.com/bruzinhae/Site-Champions-League-) | Site sobre a Champions League 2021, projeto do curso técnico | `HTML` `CSS` |
 
----
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruzinhae&show_icons=true&theme=default" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruzinhae" alt="streak" height="165"/>
-</p>
 
 ---
 
