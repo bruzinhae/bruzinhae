@@ -57,4 +57,4 @@
 - 📧 bbfhernandez@gmail.com
 - 📍 Vinhedo, SP - Brasil
 
-<p align="center"><i>Sempre aberta a projetos, colaborações e boas trocas de conhecimento 🚀</i></p>
+<p align="center"><i>Sempre aberta a projetos, colaborações e boas trocas de conhecimento :) </i></p>
