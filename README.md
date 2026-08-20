@@ -56,9 +56,13 @@
 
 <div align="center">
 
-🟦🟦🟪🟪🟩🟩🟥🟥🟨🟨
-
-🟦 `Python` 20%&nbsp;&nbsp;&nbsp;🟪 `PHP` 20%&nbsp;&nbsp;&nbsp;🟩 `C++` 20%&nbsp;&nbsp;&nbsp;🟥 `Dart` 20%&nbsp;&nbsp;&nbsp;🟨 `HTML/CSS` 20%
+```text
+Python      ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+PHP         ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+C++         ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+Dart        ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+HTML/CSS    ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+```
 
 <sub>uma linguagem por projeto próprio no GitHub</sub>
 
