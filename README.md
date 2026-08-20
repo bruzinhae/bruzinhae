@@ -27,9 +27,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-0A0D1A?style=flat-square&logo=visualstudiocode&logoColor=22D3EE" />
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=bruzinhae&color=22D3EE&style=flat-square&label=Visitas+no+perfil" alt="Visitor count" />
-
 </div>
 
 <br>
@@ -50,7 +47,6 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api?username=bruzinhae&show_icons=true&hide_border=true&bg_color=0A0D1A&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=bruzinhae&hide_border=true&background=0A0D1A&stroke=0A0D1A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=5B6478" alt="GitHub Streak" />
 
 </div>
 
