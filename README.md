@@ -2,19 +2,17 @@
 
 # Bruna Barbour Fernandes
 
-### Full Stack Developer · Estudante de Engenharia de Software
-
-<sub>Python · Web Dev · Análise de Dados</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=35&lines=Full+Stack+Developer;Estudante+de+Engenharia+de+Software;Python+%C2%B7+PHP+%C2%B7+C%2B%2B+%C2%B7+Web+Dev" alt="Typing SVG" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/brunabarbourfernandes">
-  <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square&logo=linkedin&logoColor=0A0D1A" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0D1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
 </a>
 <a href="mailto:bbfhernandez@gmail.com">
-  <img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square&logo=gmail&logoColor=0A0D1A" />
+  <img src="https://img.shields.io/badge/Email-0A0D1A?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
 </a>
-<img src="https://img.shields.io/badge/Vinhedo%2C%20SP-22D3EE?style=flat-square&logo=googlemaps&logoColor=0A0D1A" />
+<img src="https://img.shields.io/badge/Vinhedo%2C%20SP-0A0D1A?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" />
 
 <br><br>
 
@@ -29,6 +27,8 @@
 <img src="https://img.shields.io/badge/VS%20Code-0A0D1A?style=flat-square&logo=visualstudiocode&logoColor=22D3EE" />
 
 <br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bruzinhae&color=22D3EE&style=flat-square&label=Visitas+no+perfil" alt="Visitor count" />
 
 </div>
 
@@ -45,17 +45,28 @@
 
 <br>
 
-## 📊 Stack Analytics
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api?username=bruzinhae&show_icons=true&hide_border=true&bg_color=0A0D1A&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=bruzinhae&hide_border=true&background=0A0D1A&stroke=0A0D1A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=5B6478" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+## 🗂️ Stack Analytics
+
+<div align="center">
+
+🟦🟦🟪🟪🟩🟩🟥🟥🟨🟨
+
+🟦 `Python` 20%&nbsp;&nbsp;&nbsp;🟪 `PHP` 20%&nbsp;&nbsp;&nbsp;🟩 `C++` 20%&nbsp;&nbsp;&nbsp;🟥 `Dart` 20%&nbsp;&nbsp;&nbsp;🟨 `HTML/CSS` 20%
 
 <sub>uma linguagem por projeto próprio no GitHub</sub>
 
-```text
-Python      ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
-PHP         ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
-C++         ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
-Dart        ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
-HTML/CSS    ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
-```
+</div>
 
 <br>
 
