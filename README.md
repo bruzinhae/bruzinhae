@@ -1,18 +1,36 @@
 <div align="center">
 
-# Olá, eu sou a Bruna 👋
+# Bruna Barbour Fernandes
 
-**Estudante de Engenharia de Software · Full Stack em formação · Python & Web Dev**
+### Full Stack Developer · Estudante de Engenharia de Software
+
+<sub>Python · Web Dev · Análise de Dados</sub>
 
 <br>
 
 <a href="https://www.linkedin.com/in/brunabarbourfernandes">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square&logo=linkedin&logoColor=0A0D1A" />
 </a>
 <a href="mailto:bbfhernandez@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square&logo=gmail&logoColor=0A0D1A" />
 </a>
-<img src="https://img.shields.io/badge/Vinhedo%2C%20SP-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
+<img src="https://img.shields.io/badge/Vinhedo%2C%20SP-22D3EE?style=flat-square&logo=googlemaps&logoColor=0A0D1A" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0A0D1A?style=flat-square&logo=python&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PHP-0A0D1A?style=flat-square&logo=php&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/C++-0A0D1A?style=flat-square&logo=cplusplus&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/HTML5-0A0D1A?style=flat-square&logo=html5&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/CSS3-0A0D1A?style=flat-square&logo=css3&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/MySQL-0A0D1A?style=flat-square&logo=mysql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/MariaDB-0A0D1A?style=flat-square&logo=mariadb&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Git-0A0D1A?style=flat-square&logo=git&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/VS%20Code-0A0D1A?style=flat-square&logo=visualstudiocode&logoColor=22D3EE" />
+
+<br><br>
+
+⭐ **1** Star&nbsp;&nbsp;·&nbsp;&nbsp;🍴 **0** Forks&nbsp;&nbsp;·&nbsp;&nbsp;📦 **7** Repositórios&nbsp;&nbsp;·&nbsp;&nbsp;💻 **85** Commits
 
 </div>
 
@@ -29,48 +47,17 @@
 
 <br>
 
-## 🛠️ Stack & Ferramentas
+## 📊 Stack Analytics
 
-<div align="center">
+<sub>uma linguagem por projeto próprio no GitHub</sub>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bruzinhae&show_icons=true&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bruzinhae&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bruzinhae&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bruzinhae&layout=compact&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bruzinhae&layout=compact&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruzinhae&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bruzinhae&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=bruzinhae&hide_border=true&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=bruzinhae&hide_border=true&theme=default" alt="GitHub Streak" />
-</picture>
-
-</div>
+```text
+Python      ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
+PHP         ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
+C++         ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
+Dart        ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
+HTML/CSS    ████████░░░░░░░░░░░░░░░░░░░░░░░░  20%
+```
 
 <br>
 
