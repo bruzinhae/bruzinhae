@@ -30,8 +30,6 @@
 
 <br><br>
 
-⭐ **1** Star&nbsp;&nbsp;·&nbsp;&nbsp;🍴 **0** Forks&nbsp;&nbsp;·&nbsp;&nbsp;📦 **7** Repositórios&nbsp;&nbsp;·&nbsp;&nbsp;💻 **85** Commits
-
 </div>
 
 <br>
