@@ -2,7 +2,7 @@
 
 # Bruna Barbour Fernandes
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=35&lines=Full+Stack+Developer;Estudante+de+Engenharia+de+Software;Python+%C2%B7+PHP+%C2%B7+C%2B%2B+%C2%B7+Web+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=35&lines=Estudante+de+Engenharia+de+Software;Python+%C2%B7+PHP+%C2%B7+C%2B%2B+%C2%B7+Web+Dev" alt="Typing SVG" />
 
 <br>
 
